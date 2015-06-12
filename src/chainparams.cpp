@@ -79,6 +79,16 @@ public:
         
 
         vSeeds.push_back(CDNSSeedData("104.238.156.129", "104.238.156.129")); 
+		vSeeds.push_back(CDNSSeedData("37.187.27.4", "37.187.27.4")); 
+		vSeeds.push_back(CDNSSeedData("195.154.146.221", "195.154.146.221"));
+		vSeeds.push_back(CDNSSeedData("188.165.2.147", "188.165.2.147"));
+		vSeeds.push_back(CDNSSeedData("85.25.201.216", "85.25.201.216"));
+		vSeeds.push_back(CDNSSeedData("37.187.99.136", "37.187.99.136"));
+		vSeeds.push_back(CDNSSeedData("45.63.64.81", "45.63.64.81"));
+		vSeeds.push_back(CDNSSeedData("173.199.65.7", "173.199.65.7"));
+		vSeeds.push_back(CDNSSeedData("23.120.208.254", "23.120.208.254"));
+		vSeeds.push_back(CDNSSeedData("2.49.242.188", "2.49.242.188"));
+		vSeeds.push_back(CDNSSeedData("86.97.250.141", "86.97.250.141"));
 
        
         
